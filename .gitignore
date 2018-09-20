@@ -22,3 +22,5 @@ cdf2cim/TODO.txt
 tmp.ipynb
 tmp
 test-output
+setup_env.sh
+notebooks/.ipynb*
